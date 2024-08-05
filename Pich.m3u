@@ -1,5 +1,387 @@
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [001] Surah Alfatihah (Pembukaan)
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [001] Surah
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC CAMBODIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZ4dXah9Hgg4I71A58i4YdYJJIT67v0LQTQ&s" group-title="Cambodia",ABC CAMBODIA
+http://217.15.167.95:5080/live/streams/live_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APSARA TV" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="Cambodia",APSARA TV
+https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31S5L9EJYrO9bp5HtK6ovLoKS2YBHxO36Hg&s" group-title="Cambodia",BAYON TV
+http://202.62.56.28:8080/nl.m3u8?id=1095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257" group-title="Cambodia",BTV
+http://202.62.56.28:8080/nl.m3u8?id=1094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C MUSIC" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1496140466/ulmry1vytopk0sdu6uk0.png" group-title="Cambodia",C MUSIC
+http://103.25.92.30:10005/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAM TV K1" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM3ItIkLKKNOgpMSJRo5s" group-title="Cambodia",CAM TV K1
+http://103.25.92.30:10004/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAM TV M1" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM3ItIkLKKNOgpMSJRo5s" group-title="Cambodia",CAM TV M1
+http://103.25.92.30:10001/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAM TV M2" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM3ItIkLKKNOgpMSJRo5s" group-title="Cambodia",CAM TV M2
+http://103.25.92.30:10002/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAM TV M3" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM3ItIkLKKNOgpMSJRo5s" group-title="Cambodia",CAM TV M3
+http://103.25.92.30:10003/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCOC TV" tvg-logo="https://i.imgur.com/ZZtpTrf.png" group-title="Cambodia",CCOC TV
+http://dodge.eu5.org/Get?id=28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_CNC_TV.png" group-title="Cambodia",CNC
+http://202.62.56.28:8080/nl.m3u8?id=1086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_CNC_TV.png" group-title="Cambodia",CNC BACKUP
+http://103.25.92.30:10017/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC WEWATCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_CNC_TV.png" group-title="Cambodia",CNC WEWATCH
+https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwm9AnEd5IpB6xPoPaAIJ5Ojpwd-MuV8xab8gaGnde7rT6rBxYa8DMIrms8__V_9bjuM&usqp=CAU" group-title="Cambodia",CTN
+http://202.62.56.28:8080/nl.m3u8?id=1106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwm9AnEd5IpB6xPoPaAIJ5Ojpwd-MuV8xab8gaGnde7rT6rBxYa8DMIrms8__V_9bjuM&usqp=CAU" group-title="Cambodia",CTN HD
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeq2rWyv89Ppzi453UzRhWZ7Zfd4fzGS-lw&s" group-title="Cambodia",CTV8
+http://dodge.eu5.org/Get?id=14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8 WEWATCH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeq2rWyv89Ppzi453UzRhWZ7Zfd4fzGS-lw&s" group-title="Cambodia",CTV8 WEWATCH
+https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s" group-title="Cambodia",CTV9
+http://dodge.eu5.org/Get?id=7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV9 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s" group-title="Cambodia",CTV9 HD
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGITAL TV" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="Cambodia",DIGITAL TV
+http://dodge.eu5.org/Get?id=29
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTH FILM 1" tvg-logo="https://i.imgur.com/jcxHEGc.png" group-title="Cambodia",DTH FILM 1
+http://103.25.92.30:10027/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTH FILM 4" tvg-logo="https://i.imgur.com/sASzWrJ.png" group-title="Cambodia",DTH FILM 4
+http://103.25.92.30:10044/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESHNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png" group-title="Cambodia",FRESHNEWS
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9d8prqZ_iiq8V0LXcLd9dcN7o0k3A35Aauw&s" group-title="Cambodia",HANG MEAS
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS BOXING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSX6RitRbaZsZ_ZJW-GYitZ1pNhQHoJ3qUA&s" group-title="Cambodia",HANG MEAS BOXING
+http://dodge.eu5.org/Get?id=23
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS KID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9d8prqZ_iiq8V0LXcLd9dcN7o0k3A35Aauw&s" group-title="Cambodia",HANG MEAS KID
+http://hls.sweet.tv/empty.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS KON KHMER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVK9QlBYYze3DYR6Py2qsV1YD16fbYghkzg&s" group-title="Cambodia",HANG MEAS KON KHMER
+http://103.25.92.30:10024/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS MELODY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87I01_sif9eqi71Tb_XghX0KH4oEBX0hlQQ&s" group-title="Cambodia",HANG MEAS MELODY
+https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="Cambodia",HANG MEAS NOW
+http://202.62.56.28:8080/nl.m3u8?id=1129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcOrB64Vp1pLKR0pMc1ZjXD_7gHSM-7yS3g&s" group-title="Cambodia",KHMER TV
+http://dodge.eu5.org/Get?id=24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOMSAN TV" tvg-logo="https://pbs.twimg.com/profile_images/813607540630163458/R2R6O4g2_400x400.jpg" group-title="Cambodia",KOMSAN TV
+https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MO INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/800px-Emblem_of_MOI_%28Cambodia%29.svg.png" group-title="Cambodia",MO INFO
+http://dodge.eu5.org/Get?id=26
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://moitv.phsartech.com/images/logo/website-logo.png" group-title="Cambodia",MOI TV
+ https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Cambodia",Movie
+http://202.62.56.28:8080/nl.m3u8?id=1005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSJTV" tvg-logo="https://play-lh.googleusercontent.com/ohqCVIVujgi_D9vepfIIXvVceJSsu3-dTSUZDOkC2w8S9z2dn3e4AWW_iqPtO6f2sw" group-title="Cambodia",MSJTV
+http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MVC" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="Cambodia",MVC
+https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="Cambodia",MYTV
+http://202.62.56.28:8080/nl.m3u8?id=1093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV HD" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="Cambodia",MYTV HD
+https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Cambodia",NETLINK
+ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="Cambodia",PNN
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/PPCTV_Logo.jpg" group-title="Cambodia",PPCTV10
+http://103.25.92.30:10029/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/PPCTV_Logo.jpg" group-title="Cambodia",PPCTV3
+http://103.25.92.30:10049/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/PPCTV_Logo.jpg" group-title="Cambodia",PPCTV6
+http://103.25.92.30:10056/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/PPCTV_Logo.jpg" group-title="Cambodia",PPCTV9
+http://103.25.92.30:10028/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RASMEY HANG MEAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZxB1lUtbNqV1J4eDJaD5WtubYIz5_HkWVw&s" group-title="Cambodia",RASMEY HANG MEAS
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="Cambodia",SEATV
+https://live.kh.malimarcdn.com/live/seatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="Cambodia",SEATV
+http://202.62.56.28:8080/nl.m3u8?id=1083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHS TV" tvg-logo="https://i.imgur.com/c3vwh9k.png" group-title="Cambodia",SHS TV
+https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOWN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAzhPf5sFLfJVqkjlIFRh6LVNtXLGvO1YTw&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAzhPf5sFLfJVqkjlIFRh6LVNtXLGvO1YTw&s" group-title="Cambodia",TOWN TV
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOWN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAzhPf5sFLfJVqkjlIFRh6LVNtXLGvO1YTw&s" group-title="Cambodia",TOWN TV HD
+http://dodge.eu5.org/Get?id=15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest/scale-to-width-down/300?cb=20191208065059" group-title="Cambodia",TV3
+http://202.62.56.28:8080/nl.m3u8?id=1096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/TV5Khmer2017.svg/revision/latest/scale-to-width-down/200?cb=20231205081308" group-title="Cambodia",TV5
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="Cambodia",TVK
+http://dodge.eu5.org/Get?id=1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK HD" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="Cambodia",TVK HD
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DsXXFZ-6s265_1A64SU7WNwtnU1MOw_ugQ&s" group-title="Cambodia",TVK2 HD
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="01" tvg-logo="" group-title="China",01
+http://202.62.56.28:8080/nl.m3u8?id=1028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="02" tvg-logo="" group-title="China",02
+http://202.62.56.28:8080/nl.m3u8?id=1030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="03" tvg-logo="" group-title="China",03
+http://202.62.56.28:8080/nl.m3u8?id=1031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="04" tvg-logo="" group-title="China",04
+http://202.62.56.28:8080/nl.m3u8?id=1032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="05" tvg-logo="" group-title="China",05
+http://202.62.56.28:8080/nl.m3u8?id=1034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06" tvg-logo="" group-title="China",06
+http://202.62.56.28:8080/nl.m3u8?id=1035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="07" tvg-logo="" group-title="China",07
+http://202.62.56.28:8080/nl.m3u8?id=1041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08" tvg-logo="" group-title="China",08
+http://202.62.56.28:8080/nl.m3u8?id=1042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="09" tvg-logo="" group-title="China",09
+http://202.62.56.28:8080/nl.m3u8?id=1043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10" tvg-logo="" group-title="China",10
+http://202.62.56.28:8080/nl.m3u8?id=1067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11" tvg-logo="" group-title="China",11
+http://202.62.56.28:8080/nl.m3u8?id=1089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12" tvg-logo="" group-title="China",12
+http://202.62.56.28:8080/nl.m3u8?id=1099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13" tvg-logo="" group-title="China",13
+http://202.62.56.28:8080/nl.m3u8?id=1125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14" tvg-logo="" group-title="China",14
+http://202.62.56.28:8080/nl.m3u8?id=1126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15" tvg-logo="" group-title="China",15
+http://202.62.56.28:8080/nl.m3u8?id=1127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16" tvg-logo="" group-title="China",16
+http://202.62.56.28:8080/nl.m3u8?id=1128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17" tvg-logo="" group-title="China",17
+http://202.62.56.28:8080/nl.m3u8?id=1130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18" tvg-logo="" group-title="China",18
+http://202.62.56.28:8080/nl.m3u8?id=1131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19" tvg-logo="" group-title="China",19
+http://202.62.56.28:8080/nl.m3u8?id=1132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20" tvg-logo="" group-title="China",20
+http://202.62.56.28:8080/nl.m3u8?id=1134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21" tvg-logo="" group-title="China",21
+http://202.62.56.28:8080/nl.m3u8?id=1135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="22" tvg-logo="" group-title="China",22
+http://202.62.56.28:8080/nl.m3u8?id=1136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRTV" tvg-logo="" group-title="China",BRTV
+http://202.62.56.28:8080/nl.m3u8?id=1033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV1" tvg-logo="" group-title="China",CCTV1
+http://202.62.56.28:8080/nl.m3u8?id=1037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV10" tvg-logo="" group-title="China",CCTV10
+http://202.62.56.28:8080/nl.m3u8?id=1090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV11" tvg-logo="" group-title="China",CCTV11
+http://202.62.56.28:8080/nl.m3u8?id=1123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV12" tvg-logo="" group-title="China",CCTV12
+http://202.62.56.28:8080/nl.m3u8?id=1124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV13" tvg-logo="" group-title="China",CCTV13
+http://202.62.56.28:8080/nl.m3u8?id=1039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV14" tvg-logo="" group-title="China",CCTV14
+http://202.62.56.28:8080/nl.m3u8?id=1088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV15" tvg-logo="" group-title="China",CCTV15
+http://202.62.56.28:8080/nl.m3u8?id=1087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV17" tvg-logo="" group-title="China",CCTV17
+http://202.62.56.28:8080/nl.m3u8?id=1115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV2" tvg-logo="" group-title="China",CCTV2
+http://202.62.56.28:8080/nl.m3u8?id=1091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV4" tvg-logo="" group-title="China",CCTV4
+http://202.62.56.28:8080/nl.m3u8?id=1038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5" tvg-logo="" group-title="China",CCTV5
+http://202.62.56.28:8080/nl.m3u8?id=1066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="" group-title="China",CCTV5+
+http://202.62.56.28:8080/nl.m3u8?id=1064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="" group-title="China",CCTV5+
+http://202.62.56.28:8080/nl.m3u8?id=1140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV6" tvg-logo="" group-title="China",CCTV6
+http://202.62.56.28:8080/nl.m3u8?id=1049
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HKS" tvg-logo="" group-title="China",HKS
+http://202.62.56.28:8080/nl.m3u8?id=1040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Documentary",ANIMAL PLANET
+http://103.124.251.164:28015/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN
+http://202.62.56.28:8080/nl.m3u8?id=1021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrC750CJijU02Mign1m3SosBys9uisCYPuA&s" group-title="Documentary",DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TREKKER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s" group-title="Documentary",GLOBAL TREKKER
+http://202.62.56.28:8080/nl.m3u8?id=1110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="" group-title="Documentary",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
+http://103.124.251.164:28015/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1WE ENLISH" tvg-logo="https://bongsrey.sgp1.digitaloceanspaces.com/library/18057/images/thumbnail/6050766f4ac6f.jpg" group-title="Entertainment",1WE ENLISH
+http://202.62.56.28:8080/nl.m3u8?id=1024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8WE CHINA" tvg-logo="https://bongsrey.sgp1.digitaloceanspaces.com/library/18057/images/thumbnail/6050766f4ac6f.jpg" group-title="Entertainment",8WE CHINA
+http://202.62.56.28:8080/nl.m3u8?id=1068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9WE KHMER" tvg-logo="https://bongsrey.sgp1.digitaloceanspaces.com/library/18057/images/thumbnail/6050766f4ac6f.jpg" group-title="Entertainment",9WE KHMER
+http://202.62.56.28:8080/nl.m3u8?id=1069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTION HOLLYWOOD MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&s" group-title="Entertainment",ACTION HOLLYWOOD MOVIE
+http://49.0.64.96:8007/Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZING SHOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJL-jN7l7CFly4L1wOTD0-TgIPXc9dDCYnA&s" group-title="Entertainment",AMAZING SHOW
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN CN
+http://202.62.56.28:8080/nl.m3u8?id=1007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN INDO
+http://202.62.56.28:8080/nl.m3u8?id=1137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN KL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN KL
+http://202.62.56.28:8080/nl.m3u8?id=1139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN TH
+http://202.62.56.28:8080/nl.m3u8?id=1138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Entertainment",CHANNEL V
+http://202.62.56.28:8080/nl.m3u8?id=1044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACHI MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TjvryMuuIQ5sab7Stvii_mElbx8rnMotFQ&s" group-title="Entertainment",CINEMACHI MAX
+http://49.0.64.96:8007/Cinemachi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAWORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIltrEGOnU-RQnJnhQl8ixLnF59YFq1zNmSw&s" group-title="Entertainment",CINEMAWORLD
+http://202.62.56.28:8080/nl.m3u8?id=1092
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",CINEMAX
+https://stream1.freetv.fun/cinemax-10.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
+http://202.62.56.28:8080/nl.m3u8?id=1018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
+http://103.167.167.5:8454/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Entertainment",HBO HD
+http://103.124.251.164:28015/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Entertainment",HBO HITS
+http://103.124.251.164:28015/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Entertainment",HBO SIGNATURE
+http://xtv.ooo:8080/MansoorWapda/258741/350958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Entertainment",LOTUS MACAU
+http://202.62.56.28:8080/nl.m3u8?id=1045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGNATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2slHmaGLvILMSwUAtIJDuvjsAZlIjAxmIWw&s" group-title="Entertainment",MAGNATV
+http://202.62.56.28:8080/nl.m3u8?id=1104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Entertainment",MTV US
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV ACTION" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp" group-title="Entertainment",RAKUTEN TV ACTION
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV ACTION 1" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp" group-title="Entertainment",RAKUTEN TV ACTION 1
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcyi3CHEFmopNOHzQYFy7sx6jbIIJEhjqug&s" group-title="Entertainment",ROCK ACTION
+http://202.62.56.28:8080/nl.m3u8?id=1112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK ENTERTAUNMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png" group-title="Entertainment",ROCK ENTERTAUNMENT
+http://202.62.56.28:8080/nl.m3u8?id=1111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Entertainment",SONY CINE
+ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="Entertainment",SONY MOVIE
+ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES" tvg-logo="" group-title="Entertainment",STAR MOVIES
+http://103.124.251.164:28015/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES SELETED" tvg-logo="" group-title="Entertainment",STAR MOVIES SELETED
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TECH STORM" tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="Entertainment",TECH STORM
+http://202.62.56.28:8080/nl.m3u8?id=1133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXpX6coD_HUQRFxA0d0lj66ixhIKxWPiXcw&s" group-title="Entertainment",WWE
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE ASIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/640px-Logo_TV5_Monde_-_2021.svg.png" group-title="French",TV5 MONDE ASIE
+http://202.62.56.28:8080/nl.m3u8?id=1017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM" tvg-logo="" group-title="Japan",GEM
+http://202.62.56.28:8080/nl.m3u8?id=1009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",ANIMAX
+http://202.62.56.28:8080/nl.m3u8?id=1008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",CARTOON NETWORK
+http://202.62.56.28:8080/nl.m3u8?id=1013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",CARTOON NETWORK BACKUP
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOONITO" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="Kids",CARTOONITO
+http://202.62.56.28:8080/nl.m3u8?id=1012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids",DISNEY CHANNEL US
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY DX US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids",DISNEY DX US
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWaBVJAvwCg360SEp8p_jQLaiKSeRD9jI_1Q&s" group-title="Kids",DISNEY JR US
+https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Kids",NICK JR US
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" group-title="Kids",ZOOMOO
+http://202.62.56.28:8080/nl.m3u8?id=1113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC AUTRALIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOsN4IvRiHQRvH8AIeDcyqIoO-jg2xc1RnA&s" group-title="News",ABC AUTRALIA
+http://202.62.56.28:8080/nl.m3u8?id=1119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AJAZEERA" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="News",AJAZEERA
+http://202.62.56.28:8080/nl.m3u8?id=1019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARIRANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCs6wGG-3FlKaKTQL7ls9NsvLYPsKNxDdqQ&s" group-title="News",ARIRANG
+http://202.62.56.28:8080/nl.m3u8?id=1014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAx4d7GaHq97thcp1wTysCR8lr8-2_bOw6sA&s" group-title="News",CNA
+http://202.62.56.28:8080/nl.m3u8?id=1006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcwLmkPAHfYfr-X7iu_fKlNym40i8VNK7Xw&s" group-title="News",CNN
+http://202.62.56.28:8080/nl.m3u8?id=1011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DW
+http://202.62.56.28:8080/nl.m3u8?id=1015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSterQopokt37dESk7e7fsukVfvm_SHyKfSA&s" group-title="News",FOX NEWS
+http://49.0.64.96:8007/FOXNEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",FRANCE24
+http://202.62.56.28:8080/nl.m3u8?id=1022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE24 ENGLISH" tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text-thumbnail.png" group-title="News",FRANCE24 ENGLISH
+http://202.62.56.28:8080/nl.m3u8?id=1023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK WORLD
+http://202.62.56.28:8080/nl.m3u8?id=1016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE WORLD TODAY" tvg-logo="https://cdn.dribbble.com/users/6368/screenshots/15434843/johannes_leuchovius_world_today_001_1.png" group-title="News",THE WORLD TODAY
+http://202.62.56.28:8080/nl.m3u8?id=1020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="News",TRT WORLD
+http://202.62.56.28:8080/nl.m3u8?id=1027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkff-c7ojSuXXOUxXdX2ftvxJKIFuaJTEbBA&s" group-title="Sport",NBA ONE
+http://49.0.64.96:8007/NBA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE 2 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWs_G_9nTsJ4QjeNmqcONFl-DeDcD-FHf5A&s" group-title="Sport",TRUE 2 PREMIER FOOTBALL
+http://202.62.56.28:8080/nl.m3u8?id=1065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE7 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnEU2zzjjGwSNAwHZPS6Bl6TW66ILNzipcA&s" group-title="Sport",TRUE7 PREMIER FOOTBALL
+http://202.62.56.28:8080/nl.m3u8?id=1061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATCHNOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1zFOQxYuTavOmepDVNpU6P9Id3f91H4avA&s" group-title="Sport",WATCHNOW
+http://202.62.56.28:8080/nl.m3u8?id=1140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALTV" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Thailand",ALTV
+https://edge6a.v2h-cdn.com/altv/altv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMARIN" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Thailand",AMARIN
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 5" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",CHANNEL 5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand",CHANNEL 7
+http://202.62.56.28:8080/nl.m3u8?id=1072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 8" tvg-logo="https://i.imgur.com/UoQARYm.png" group-title="Thailand",CHANNEL 8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 8 THAILAND" tvg-logo="https://i.imgur.com/Wo1ZllE.png" group-title="Thailand",CHANNEL 8 THAILAND
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMM25" tvg-logo="https://iptv36.my.to/logo/gmm25.png" group-title="Thailand",GMM25
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JKN18" tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Thailand",JKN18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MCOT" tvg-logo="https://iptv36.my.to/logo/mcot.png" group-title="Thailand",MCOT
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONO29" tvg-logo="https://iptv36.my.to/logo/mono29.png" group-title="Thailand",MONO29
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL TV" tvg-logo="https://iptv36.my.to/logo/nation.png" group-title="Thailand",NATIONAL TV
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBT" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="Thailand",NBT
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE31" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Thailand",ONE31
+https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPTV" tvg-logo="https://iptv36.my.to/logo/pptv.png" group-title="Thailand",PPTV
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS 7" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Thailand",T SPORTS 7
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAI PBS" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Thailand",THAI PBS
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAIRATH" tvg-logo="https://iptv36.my.to/logo/thairath.png" group-title="Thailand",THAIRATH
+https://streaming-web.thairath.co.th/hls/playlist.m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNN16" tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Thailand",TNN16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP NEWS" tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="Thailand",TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TPTV" tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Thailand",TPTV
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE4U" tvg-logo="https://iptv36.my.to/logo/true4u.png" group-title="Thailand",TRUE4U
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="Thailand",TV3
+http://202.62.56.28:8080/nl.m3u8?id=1062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORKPOINT TV" tvg-logo="https://iptv36.my.to/logo/workpoint.png" group-title="Thailand",WORKPOINT TV
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV CAN THO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="Vietnam",VTV CAN THO
+https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1781031849~acl=/hls/live/2029314/vtv6/*~hmac=31b3253a41054308c5632509cfe1adc7b8b9680c18be42da6eef6e491b4a5e1f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV1" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="Vietnam",VTV1
+https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781031276~acl=/hls/live/2029307/vtv1/*~hmac=62876a65c9347027624d81298daeb148675d2968fab615afa7d9230738f63f7a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV2" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="Vietnam",VTV2
+https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1781031601~acl=/hls/live/2029308/vtv2/*~hmac=d81e9b3804256581199b891e775e8688df193efe9e37dd5d9613f5f6cda7964a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV3" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/3.png" group-title="Vietnam",VTV3
+https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1781031671~acl=/hls/live/2029309/vtv3/*~hmac=6763837f9d9ffa7c7ff99358c1327232c488be52221444a771b12e24af87d18c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV4" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/4.png" group-title="Vietnam",VTV4
+https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1781031709~acl=/hls/live/2029310/vtv4/*~hmac=3631b9fcc1e89e8f501aa58a7dcd6cdcf9da4bd96ef0f1a730bf98302c5f024d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV5" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/5.png" group-title="Vietnam",VTV5
+https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1781031755~acl=/hls/live/2029311/vtv5/*~hmac=bcdbcbd4df2017d994bdb5c5eb07461d7e22152b75902823000bca23e5f958d3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV5 TAY NAM BO" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/7.png" group-title="Vietnam",VTV5 TAY NAM BO
+https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1781031793~acl=/hls/live/2029313/vtv5tnb/*~hmac=1e5ea85de2aeeff4a37a62b543cdbc96953deb8cbc8b2eb986999a53fd947783
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV5 TAY NGUYEN" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/163.png" group-title="Vietnam",VTV5 TAY NGUYEN
+https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1781031814~acl=/hls/live/2029312/vtv5tn/*~hmac=04aeaa9e0ced0eced5f6f29255f0f4b9e692d5ff08d467ed2e2e27ad797479dd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV7" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/27.png" group-title="Vietnam",VTV7
+https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1781031873~acl=/hls/live/2029315/vtv7/*~hmac=49fa23551694ea35430f4acca0595966cd4372d746ac00f2a3a5aa29c432d362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV8" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/36.png" group-title="Vietnam",VTV8
+https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1781031901~acl=/hls/live/2029316/vtv8/*~hmac=1f5c14f62f74b3802168cdbd4ce8cc58fc137fbfabdebf8d43af077a979342c4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV9" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="Vietnam",VTV9
+https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1781031922~acl=/hls/live/2029317/vtv9/*~hmac=02acb426dea2cebb0d96a3385e3d35d3df7afe92cc9a482728c0d886683507ac
