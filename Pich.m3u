@@ -224,16 +224,16 @@ http://49.0.64.96:8007/Cinemachi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAWORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIltrEGOnU-RQnJnhQl8ixLnF59YFq1zNmSw&s" group-title="Entertainment",CINEMAWORLD
 http://202.62.56.28:8080/nl.m3u8?id=1092
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",CINEMAX
-https://stream1.freetv.fun/cinemax-10.ctv
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197964
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
 http://202.62.56.28:8080/nl.m3u8?id=1018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO
-http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
-#http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
 http://103.167.167.5:8454/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Entertainment",HBO HD
-http://103.124.251.164:28015/play/a01v/index.m3u8
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
+#http://103.124.251.164:28015/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Entertainment",HBO HITS
 http://103.124.251.164:28015/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Entertainment",HBO SIGNATURE
