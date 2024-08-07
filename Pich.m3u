@@ -228,7 +228,8 @@ https://stream1.freetv.fun/cinemax-10.ctv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
 http://202.62.56.28:8080/nl.m3u8?id=1018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
+#http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="" group-title="Entertainment",HBO FAMILY
 http://103.167.167.5:8454/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Entertainment",HBO HD
