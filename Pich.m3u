@@ -62,9 +62,9 @@ http://dodge.eu5.org/Get?id=24
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOMSAN TV" tvg-logo="https://pbs.twimg.com/profile_images/813607540630163458/R2R6O4g2_400x400.jpg" group-title="Cambodia",KOMSAN TV
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MO INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/800px-Emblem_of_MOI_%28Cambodia%29.svg.png" group-title="Cambodia",MO INFO
-http://dodge.eu5.org/Get?id=26
+https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://moitv.phsartech.com/images/logo/website-logo.png" group-title="Cambodia",MOI TV
- https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8
+https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" group-title="Cambodia",Movie
 http://202.62.56.28:8080/nl.m3u8?id=1005
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSJTV" tvg-logo="https://play-lh.googleusercontent.com/ohqCVIVujgi_D9vepfIIXvVceJSsu3-dTSUZDOkC2w8S9z2dn3e4AWW_iqPtO6f2sw" group-title="Cambodia",MSJTV
