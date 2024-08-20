@@ -71,6 +71,8 @@ http://202.62.56.28:8080/nl.m3u8?id=1005
 http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MVC" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="Cambodia",MVC
 https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV SD" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="Cambodia",MYTV SD
+http://dodge.eu5.org/Get?id=9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="Cambodia",MYTV
 http://202.62.56.28:8080/nl.m3u8?id=1093
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV HD" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="Cambodia",MYTV HD
