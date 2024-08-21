@@ -177,17 +177,17 @@ http://202.62.56.28:8080/nl.m3u8?id=1115
 http://202.62.56.28:8080/nl.m3u8?id=1091
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV4" tvg-logo="" group-title="China",CCTV4
 http://202.62.56.28:8080/nl.m3u8?id=1038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5" tvg-logo="" group-title="China",CCTV5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/11/9/1478678014414_779.jpg" group-title="China",CCTV5
 http://202.62.56.28:8080/nl.m3u8?id=1066
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="" group-title="China",CCTV5+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/11/9/1478678014414_779.jpg" group-title="China",CCTV5+
 http://202.62.56.28:8080/nl.m3u8?id=1064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="" group-title="China",CCTV5+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV5+" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/11/9/1478678014414_779.jpg" group-title="China",CCTV5+
 http://202.62.56.28:8080/nl.m3u8?id=1140
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV6" tvg-logo="" group-title="China",CCTV6
 http://202.62.56.28:8080/nl.m3u8?id=1049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HKS" tvg-logo="" group-title="China",HKS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HKS" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="China",HKS
 http://202.62.56.28:8080/nl.m3u8?id=1040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Documentary",ANIMAL PLANET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary",ANIMAL PLANET
 http://103.124.251.164:28015/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN
 http://202.62.56.28:8080/nl.m3u8?id=1021
@@ -197,9 +197,9 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 http://202.62.56.28:8080/nl.m3u8?id=1110
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="" group-title="Documentary",REDBULL TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Documentary",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbiIR6peQyD1fnfqWtLIh8zGqqpQUXkB8xg&s" group-title="Entertainment",TLC
 http://103.124.251.164:28015/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1WE ENLISH" tvg-logo="https://bongsrey.sgp1.digitaloceanspaces.com/library/18057/images/thumbnail/6050766f4ac6f.jpg" group-title="Entertainment",1WE ENLISH
 http://202.62.56.28:8080/nl.m3u8?id=1024
