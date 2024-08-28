@@ -42,7 +42,7 @@ http://dodge.eu5.org/Get?id=29
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTH FILM 1" tvg-logo="https://i.imgur.com/jcxHEGc.png" group-title="Cambodia",DTH FILM 1
 http://103.25.92.30:10027/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTH FILM 4" tvg-logo="https://i.imgur.com/sASzWrJ.png" group-title="Cambodia",DTH FILM 4
-http://103.25.92.30:10044/2.m3u8
+http://103.25.92.30:10030/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESHNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png" group-title="Cambodia",FRESHNEWS
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HANG MEAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9d8prqZ_iiq8V0LXcLd9dcN7o0k3A35Aauw&s" group-title="Cambodia",HANG MEAS
