@@ -188,7 +188,7 @@ http://202.62.56.28:8080/nl.m3u8?id=1049
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HKS" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="China",HKS
 http://202.62.56.28:8080/nl.m3u8?id=1040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary",ANIMAL PLANET
-http://103.124.251.164:28015/play/a00t/index.m3u8
+https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN
 http://202.62.56.28:8080/nl.m3u8?id=1021
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrC750CJijU02Mign1m3SosBys9uisCYPuA&s" group-title="Documentary",DISCOVERY ASIA
@@ -230,17 +230,23 @@ http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197964
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
 http://202.62.56.28:8080/nl.m3u8?id=1018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO HD
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO Test
 http://ktpremium.xyz:2095/live/yv2268/22681081/26076.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" group-title="Entertainment",HBO FAMILY
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" group-title="Entertainment",HBO FAMILY Test
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Entertainment",HBO HITS
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/196480
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Entertainment",HBO HITS Test
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Entertainment",HBO SIGNATURE
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/221948
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Entertainment",HBO SIGNATURE Test
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Entertainment",LOTUS MACAU
 http://202.62.56.28:8080/nl.m3u8?id=1045
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGNATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2slHmaGLvILMSwUAtIJDuvjsAZlIjAxmIWw&s" group-title="Entertainment",MAGNATV
@@ -256,9 +262,9 @@ http://202.62.56.28:8080/nl.m3u8?id=1112
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK ENTERTAUNMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png" group-title="Entertainment",ROCK ENTERTAUNMENT
 http://202.62.56.28:8080/nl.m3u8?id=1111
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Entertainment",SONY CINE
- https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="Entertainment",SONY MOVIE
- https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Entertainment",STAR MOVIES
 http://103.124.251.164:28015/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES SELETED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s" group-title="Entertainment",STAR MOVIES SELETED
