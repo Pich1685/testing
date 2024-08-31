@@ -235,6 +235,8 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO Test
 http://ktpremium.xyz:2095/live/yv2268/22681081/26076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Tester" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO Tester
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" group-title="Entertainment",HBO FAMILY
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Entertainment",HBO HITS
