@@ -227,6 +227,8 @@ http://49.0.64.96:8007/Cinemachi
 http://202.62.56.28:8080/nl.m3u8?id=1092
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",CINEMAX
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/197964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",CINEMAX TEST
+http://202.150.161.117:8000/play/Cinemax
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
 http://202.62.56.28:8080/nl.m3u8?id=1018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Entertainment",HBO
