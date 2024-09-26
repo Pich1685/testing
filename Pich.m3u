@@ -255,6 +255,8 @@ http://202.62.56.28:8080/nl.m3u8?id=1045
 http://202.62.56.28:8080/nl.m3u8?id=1104
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Entertainment",MTV US
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA" tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png" group-title="Entertainment",MY CINEMA
+https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV ACTION" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp" group-title="Entertainment",RAKUTEN TV ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV ACTION 1" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp" group-title="Entertainment",RAKUTEN TV ACTION 1
