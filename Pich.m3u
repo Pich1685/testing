@@ -152,7 +152,7 @@ http://202.62.56.28:8080/nl.m3u8?id=1092
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CELESTIAL MOVIE" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="Entertainment",CELESTIAL MOVIE
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",CINEMAX
-https://sc2024.stream-link.org/live/11982249196.php?id=sgp2839ppgj
+http://103.156.141.151:4567/stream/channelid/570845997?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvhaxRD5htwP0wOyaFTO-XibmbW3YBXvC0A&s" group-title="Entertainment",FASHION
 http://202.62.56.28:8080/nl.m3u8?id=1018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GALAXY" tvg-logo="https://images.indihometv.com/logo_galaxy_small.png" group-title="Entertainment",GALAXY
