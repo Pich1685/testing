@@ -31,7 +31,7 @@ http://202.62.56.28:8080/nl.m3u8?id=1106
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeq2rWyv89Ppzi453UzRhWZ7Zfd4fzGS-lw&s" group-title="Cambodia",CTV8
 http://103.25.92.30:10012/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8 WEWATCH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeq2rWyv89Ppzi453UzRhWZ7Zfd4fzGS-lw&s" group-title="Cambodia",CTV8 Happy Watch
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8 WEWATCH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeq2rWyv89Ppzi453UzRhWZ7Zfd4fzGS-lw&s" group-title="Cambodia",CTV8 WEWATCH
 https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s" group-title="Cambodia",CTV9
 http://dodge.eu5.org/Get?id=7
@@ -111,18 +111,6 @@ http://dodge.eu5.org/Get?id=1
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DsXXFZ-6s265_1A64SU7WNwtnU1MOw_ugQ&s" group-title="Cambodia",TVK2 HD
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary",ANIMAL PLANET
-https://kusnadipepenk.github.io/ntn/animal.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN
-http://202.62.56.28:8080/nl.m3u8?id=1021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrC750CJijU02Mign1m3SosBys9uisCYPuA&s" group-title="Documentary",DISCOVERY ASIA
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TREKKER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s" group-title="Documentary",GLOBAL TREKKER
-http://202.62.56.28:8080/nl.m3u8?id=1110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Documentary",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbiIR6peQyD1fnfqWtLIh8zGqqpQUXkB8xg&s" group-title="Entertainment",TLC
 http://103.124.251.164:28015/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1WE ENLISH" tvg-logo="https://bongsrey.sgp1.digitaloceanspaces.com/library/18057/images/thumbnail/6050766f4ac6f.jpg" group-title="Entertainment",1WE ENLISH
@@ -199,14 +187,10 @@ http://202.62.56.28:8080/nl.m3u8?id=1133
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE MY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXpX6coD_HUQRFxA0d0lj66ixhIKxWPiXcw&s" group-title="Entertainment",WWE MY
 http://mytv-extra.com:80/t12mgxyb335/9832948789/192015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXpX6coD_HUQRFxA0d0lj66ixhIKxWPiXcw&s" group-title="Entertainment",WWE MY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXpX6coD_HUQRFxA0d0lj66ixhIKxWPiXcw&s" group-title="Entertainment",WWE US
 http://mohdtv.com:8880/voby1852/318127580cde00576254/3083
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV89qz-BBI0bYqe3RrZmUa_XciPxJZnpbdAA&s" group-title="Entertainment",WARNER TV
 http://103.156.141.151:4567/stream/channelid/810982907?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE ASIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/640px-Logo_TV5_Monde_-_2021.svg.png" group-title="French",TV5 MONDE ASIE
-http://202.62.56.28:8080/nl.m3u8?id=1017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Japan",GEM
-http://202.62.56.28:8080/nl.m3u8?id=1009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",ANIMAX
 http://202.62.56.28:8080/nl.m3u8?id=1008
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",CARTOON NETWORK
@@ -249,6 +233,26 @@ http://202.62.56.28:8080/nl.m3u8?id=1016
 http://202.62.56.28:8080/nl.m3u8?id=1020
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="News",TRT WORLD
 http://202.62.56.28:8080/nl.m3u8?id=1027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary",ANIMAL PLANET
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN
+http://202.62.56.28:8080/nl.m3u8?id=1021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrC750CJijU02Mign1m3SosBys9uisCYPuA&s" group-title="Documentary",DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TREKKER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s" group-title="Documentary",GLOBAL TREKKER
+http://202.62.56.28:8080/nl.m3u8?id=1110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Documentary",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="Sport",ASTRO SUPER SPORT 1
+http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="Sport",ASTRO SUPER SPORT 2
+http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="Sport",ASTRO SUPER SPORT 3
+http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="Sport",ASTRO SUPER SPORT 4
+http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkff-c7ojSuXXOUxXdX2ftvxJKIFuaJTEbBA&s" group-title="Sport",NBA ONE
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE 2 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWs_G_9nTsJ4QjeNmqcONFl-DeDcD-FHf5A&s" group-title="Sport",TRUE 2 PREMIER FOOTBALL
@@ -257,6 +261,10 @@ http://202.62.56.28:8080/nl.m3u8?id=1065
 http://202.62.56.28:8080/nl.m3u8?id=1061
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATCHNOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1zFOQxYuTavOmepDVNpU6P9Id3f91H4avA&s" group-title="Sport",WATCHNOW
 http://202.62.56.28:8080/nl.m3u8?id=1140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE ASIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/640px-Logo_TV5_Monde_-_2021.svg.png" group-title="French",TV5 MONDE ASIE
+http://202.62.56.28:8080/nl.m3u8?id=1017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Japan",GEM
+http://202.62.56.28:8080/nl.m3u8?id=1009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALTV" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Thailand",ALTV
 https://edge6a.v2h-cdn.com/altv/altv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMARIN" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Thailand",AMARIN
