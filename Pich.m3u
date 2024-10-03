@@ -267,6 +267,8 @@ http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
 http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport",FIGHT SPORT
 http://103.156.141.151:4567/stream/channelid/478899243?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HI FIGHT" tvg-logo="https://fightsportsbjj.myshopify.com/cdn/shop/files/FIGHT_SPORTS_CLUB_-_LOGO_387x.png?v=1657466003" group-title="Sport",HI FIGHT
+http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkff-c7ojSuXXOUxXdX2ftvxJKIFuaJTEbBA&s" group-title="Sport",NBA ONE
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE 2 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWs_G_9nTsJ4QjeNmqcONFl-DeDcD-FHf5A&s" group-title="Sport",TRUE 2 PREMIER FOOTBALL
@@ -282,7 +284,7 @@ http://202.62.56.28:8080/nl.m3u8?id=1009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALTV" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Thailand",ALTV
 https://edge6a.v2h-cdn.com/altv/altv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMARIN" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Thailand",AMARIN
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 5" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",CHANNEL 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand",CHANNEL 7
@@ -302,7 +304,7 @@ https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL TV" tvg-logo="https://iptv36.my.to/logo/nation.png" group-title="Thailand",NATIONAL TV
 https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBT" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="Thailand",NBT
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE31" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Thailand",ONE31
 https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPTV" tvg-logo="https://iptv36.my.to/logo/pptv.png" group-title="Thailand",PPTV
