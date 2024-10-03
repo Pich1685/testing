@@ -223,6 +223,8 @@ http://202.62.56.28:8080/nl.m3u8?id=1119
 http://202.62.56.28:8080/nl.m3u8?id=1019
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARIRANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCs6wGG-3FlKaKTQL7ls9NsvLYPsKNxDdqQ&s" group-title="News",ARIRANG
 http://202.62.56.28:8080/nl.m3u8?id=1014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" group-title="News",BBC WORLD
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAx4d7GaHq97thcp1wTysCR8lr8-2_bOw6sA&s" group-title="News",CNA
 http://202.62.56.28:8080/nl.m3u8?id=1006
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcwLmkPAHfYfr-X7iu_fKlNym40i8VNK7Xw&s" group-title="News",CNN
