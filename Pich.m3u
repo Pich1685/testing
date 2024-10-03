@@ -265,6 +265,8 @@ http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
 http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="Sport",ASTRO SUPER SPORT 4
 http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport",FIGHT SPORT
+http://103.156.141.151:4567/stream/channelid/478899243?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkff-c7ojSuXXOUxXdX2ftvxJKIFuaJTEbBA&s" group-title="Sport",NBA ONE
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE 2 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWs_G_9nTsJ4QjeNmqcONFl-DeDcD-FHf5A&s" group-title="Sport",TRUE 2 PREMIER FOOTBALL
