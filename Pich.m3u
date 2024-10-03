@@ -245,6 +245,8 @@ https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://202.62.56.28:8080/nl.m3u8?id=1021
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrC750CJijU02Mign1m3SosBys9uisCYPuA&s" group-title="Documentary",DISCOVERY ASIA
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png" group-title="Documentary",NAT GEO WILD
+http://103.84.57.155:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TREKKER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s" group-title="Documentary",GLOBAL TREKKER
 http://202.62.56.28:8080/nl.m3u8?id=1110
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",NASA TV
