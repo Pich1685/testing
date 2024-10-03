@@ -165,6 +165,8 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 http://202.62.56.28:8080/nl.m3u8?id=1045
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGNATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2slHmaGLvILMSwUAtIJDuvjsAZlIjAxmIWw&s" group-title="Entertainment",MAGNATV
 http://202.62.56.28:8080/nl.m3u8?id=1104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIENOW" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png" group-title="Entertainment",MOVIENOW
+http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Entertainment",MTV US
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA" tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png" group-title="Entertainment",MY CINEMA
