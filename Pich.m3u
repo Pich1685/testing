@@ -269,6 +269,8 @@ http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
 http://103.156.141.151:4567/stream/channelid/478899243?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HI FIGHT" tvg-logo="https://fightsportsbjj.myshopify.com/cdn/shop/files/FIGHT_SPORTS_CLUB_-_LOGO_387x.png?v=1657466003" group-title="Sport",HI FIGHT
 http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NdsRLbwxMmBg_mXVkekfRvI2L1FAyvyWqQ&s" group-title="Sport",HI SPORT
+http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkff-c7ojSuXXOUxXdX2ftvxJKIFuaJTEbBA&s" group-title="Sport",NBA ONE
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE 2 PREMIER FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWs_G_9nTsJ4QjeNmqcONFl-DeDcD-FHf5A&s" group-title="Sport",TRUE 2 PREMIER FOOTBALL
