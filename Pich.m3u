@@ -179,8 +179,10 @@ http://202.62.56.28:8080/nl.m3u8?id=1111
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="Entertainment",SONY MOVIE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Entertainment",STAR MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Entertainment",STAR MOVIES SD
 http://103.124.251.164:28015/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Entertainment",STAR MOVIES HD
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES SELETED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s" group-title="Entertainment",STAR MOVIES SELETED
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TECH STORM" tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="Entertainment",TECH STORM
