@@ -163,6 +163,8 @@ http://103.124.251.164:28015/play/a01w/index.m3u8
 http://103.124.251.164:28015/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS NOW" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" group-title="Entertainment",HITS NOW
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-ntOmelaOpQq5DsmOeCCjzK_bfEbffqKzA&s" group-title="Entertainment",KIX
+http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Entertainment",LOTUS MACAU
 http://202.62.56.28:8080/nl.m3u8?id=1045
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGNATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2slHmaGLvILMSwUAtIJDuvjsAZlIjAxmIWw&s" group-title="Entertainment",MAGNATV
