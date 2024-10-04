@@ -199,7 +199,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=873868
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/2560px-Sky_Cinema_Comedy_-_Logo_2021.svg.png" group-title="Entertainment",SKY CINEMA COMEDY
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=163994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-DRAMA-June-2020.png" group-title="Entertainment",SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-DRAMA-June-2020.png" group-title="Entertainment",SKY CINEMA DRAMA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30514
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/2560px-Sky_Cinema_Family_-_Logo_2021.svg.png" group-title="Entertainment",SKY CINEMA FAMILY
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=163993
@@ -221,6 +221,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=949137
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ia800409.us.archive.org/8/items/SkyCinemaSuperhero/sky%20cinema%20superhero.png", group-title="Entertainment"SKY CINEMA SUPERHERO
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THRILL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Thrill.svg/revision/latest/scale-to-width-down/250?cb=20231010141408", group-title="Entertainment"THRILL
+http://103.156.141.151:4567/stream/channelid/139523732?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TECH STORM" tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="Entertainment",TECH STORM
 http://202.62.56.28:8080/nl.m3u8?id=1133
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXpX6coD_HUQRFxA0d0lj66ixhIKxWPiXcw&s" group-title="Entertainment",WWE
