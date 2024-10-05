@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC CAMBODIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZ4dXah9Hgg4I71A58i4YdYJJIT67v0LQTQ&s" group-title="Cambodia",ABC CAMBODIA
 http://217.15.167.95:5080/live/streams/live_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APSARA TV" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="Cambodia",APSARA TV
-https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
+https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31S5L9EJYrO9bp5HtK6ovLoKS2YBHxO36Hg&s" group-title="Cambodia",BAYON TV
 http://202.62.56.28:8080/nl.m3u8?id=1095
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257" group-title="Cambodia",BTV
